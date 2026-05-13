@@ -1,3 +1,3 @@
 # dbgenai
-All Genai based development will be checked n
+All Genai based development will be checked in
 
